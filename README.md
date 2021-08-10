@@ -1,4 +1,4 @@
-# [디스코드주소](https://discord.com/invite/yufuZH9NKE)
+## [디스코드주소](https://discord.com/invite/yufuZH9NKE)
 
 * * *
 
