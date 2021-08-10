@@ -118,3 +118,21 @@
 - 메인팀 1~2진행까지 동일
 1. 시계방향으로 아측 3개점령지 확보후 메인에 합류
 2. 아측지역의 적 점령 견재, 방어
+
+
+* * *
+## tip
+- [디펜스 3단계 깨는방법](https://www.youtube.com/watch?v=MxtLjaap2T8)
+- [마지르 합성 냄비 공식](https://m.cafe.naver.com/hsite/68748)
+- [퍼즐 계산기](https://myar.tistory.com/entry/ninokuni-tetro-puzzle-calculator)
+
+
+## 디펜스 공략
+
+1. 라인그어놓고 용나올때까지 뺑뺑이
+2. 소환사 90만 5명
+- 2웨이브 소환자 3~4명
+- 3웨이브 날구리
+
+
+
