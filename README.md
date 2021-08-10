@@ -1,4 +1,7 @@
-# [디스코드(https://discord.com/invite/yufuZH9NKE)](https://discord.com/invite/yufuZH9NKE) <- 참여해주세요
+# 참여해주세요
+# [디스코드(https://discord.com/invite/yufuZH9NKE)](https://discord.com/invite/yufuZH9NKE)
+# [카카오톡 - 공지방(https://open.kakao.com/o/gydbRCid)](https://open.kakao.com/o/gydbRCid)
+# [카카오톡 - 대화방(https://open.kakao.com/o/gfkMyued)](https://open.kakao.com/o/gfkMyued)
 
 
 ## [길드소개 및 방향성]
