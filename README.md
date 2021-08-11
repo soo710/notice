@@ -5,7 +5,7 @@
 # [카카오톡 - 대화방(https://open.kakao.com/o/gfkMyued)](https://open.kakao.com/o/gfkMyued)
 
 
-## [<span style="color:blue">**킹덤소개**</span>]
+## [ **킹덤소개** ]
 
 > 킹덤마스터 :  __려늬__
 > 
