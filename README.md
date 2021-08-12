@@ -4,10 +4,6 @@
 # [카카오톡 - 공지방(https://open.kakao.com/o/gydbRCid)](https://open.kakao.com/o/gydbRCid)
 # [카카오톡 - 대화방(https://open.kakao.com/o/gfkMyued)](https://open.kakao.com/o/gfkMyued)
 
-_강조_
-**강조**
-*강조*
-
 ## [ **킹덤소개** ]
 
 > 킹덤마스터 :  __려늬__
