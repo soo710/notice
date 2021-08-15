@@ -174,3 +174,4 @@
 ## [디펜스 3단계 깨는방법](https://www.youtube.com/watch?v=MxtLjaap2T8)
 ## [마지르 합성 냄비 공식](https://m.cafe.naver.com/hsite/68748)
 ## [퍼즐 계산기](https://myar.tistory.com/entry/ninokuni-tetro-puzzle-calculator)
+## [포즈북파밍 - 모든맵 보물상자 위치](https://forum.netmarble.com/enn_ko/view/27/84927)
