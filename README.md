@@ -7,6 +7,8 @@
 
 # [카카오톡 - 대화방(https://open.kakao.com/o/gfkMyued)](https://open.kakao.com/o/gfkMyued)
 
+# [카카오톡 - 의견방(https://open.kakao.com/o/g9tzFOid)](https://open.kakao.com/o/g9tzFOid)
+
 
 ## [ **킹덤소개** ]
 
