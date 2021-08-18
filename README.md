@@ -3,14 +3,18 @@
 
 ## [디스코드](https://discord.com/invite/yufuZH9NKE)
 
-## [카카오톡 - 공지방 / 43210](https://open.kakao.com/o/gydbRCid)
-
-## [카카오톡 - 대화방 / 43210](https://open.kakao.com/o/gfkMyued)
-
-## [카카오톡 - 의견방 / 59590)](https://open.kakao.com/o/g9tzFOid)
-
 ## [파티 편성](https://docs.google.com/spreadsheets/d/1ZmqVB0v5BhWB3MoBMEtAPjRERrNWiBQsOntKVwJMpHY/edit?usp=sharing) 
 
+## [카카오톡 - 공지방](https://open.kakao.com/o/gydbRCid)
+
+## [카카오톡 - 대화방](https://open.kakao.com/o/gfkMyued)
+
+## [카카오톡 - 의견방](https://open.kakao.com/o/g9tzFOid)
+
+```sh
+공지방, 대화방 참여 코드 : 43210
+의견방 참여코드 : 59590
+```
 
 ## [ **킹덤소개** ]
 
