@@ -9,6 +9,8 @@
 
 # [카카오톡 - 의견방(https://open.kakao.com/o/g9tzFOid)](https://open.kakao.com/o/g9tzFOid)
 
+## [편성](https://docs.google.com/spreadsheets/d/1ZmqVB0v5BhWB3MoBMEtAPjRERrNWiBQsOntKVwJMpHY/edit?usp=sharing) 
+
 
 ## [ **킹덤소개** ]
 
