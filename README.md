@@ -4,12 +4,15 @@
 # [디스코드(https://discord.com/invite/yufuZH9NKE)](https://discord.com/invite/yufuZH9NKE)
 
 # [카카오톡 - 공지방(https://open.kakao.com/o/gydbRCid)](https://open.kakao.com/o/gydbRCid)
+- 참여코드 43210
 
 # [카카오톡 - 대화방(https://open.kakao.com/o/gfkMyued)](https://open.kakao.com/o/gfkMyued)
+- 참여코드 43210
 
 # [카카오톡 - 의견방(https://open.kakao.com/o/g9tzFOid)](https://open.kakao.com/o/g9tzFOid)
+- 참여코드 59590
 
-## [편성](https://docs.google.com/spreadsheets/d/1ZmqVB0v5BhWB3MoBMEtAPjRERrNWiBQsOntKVwJMpHY/edit?usp=sharing) 
+# [파티 편성](https://docs.google.com/spreadsheets/d/1ZmqVB0v5BhWB3MoBMEtAPjRERrNWiBQsOntKVwJMpHY/edit?usp=sharing) 
 
 
 ## [ **킹덤소개** ]
