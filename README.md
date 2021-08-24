@@ -117,6 +117,18 @@
 - 공지방 사다리타기 진행 후 당첨자만 입찰
 - 당첨자는 다른 킹덤원에게 입찰 양도 허용
 
+* * *
+* * *
+
+
+## 팁
+## [디펜스 3단계 깨는방법](https://www.youtube.com/watch?v=MxtLjaap2T8)
+## [마지르 합성 냄비 공식](https://m.cafe.naver.com/hsite/68748)
+## [퍼즐 계산기](https://myar.tistory.com/entry/ninokuni-tetro-puzzle-calculator)
+## [포즈북파밍 - 모든맵 보물상자 위치](https://forum.netmarble.com/enn_ko/view/27/84927)
+
+* * *
+* * *
 
 
 ## [ **유물전장** ]
@@ -166,21 +178,10 @@
 2. 아측지역의 적 점령 견재, 방어
 
 
-## 디펜스 공략
-
-
+## 디펜스 공략 4단계
 
 1. 라인그어놓고 용나올때까지 뺑뺑이
 2. 딜 집중
  - 2웨이브 소환자
  - 3웨이브 날구리
 
-
-* * *
-
-
-## 팁
-## [디펜스 3단계 깨는방법](https://www.youtube.com/watch?v=MxtLjaap2T8)
-## [마지르 합성 냄비 공식](https://m.cafe.naver.com/hsite/68748)
-## [퍼즐 계산기](https://myar.tistory.com/entry/ninokuni-tetro-puzzle-calculator)
-## [포즈북파밍 - 모든맵 보물상자 위치](https://forum.netmarble.com/enn_ko/view/27/84927)
