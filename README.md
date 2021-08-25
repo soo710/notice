@@ -1,19 +1,19 @@
 ## [ **확인해주세요** ] **
 
- ## [파티 편성](https://docs.google.com/spreadsheets/d/1ZmqVB0v5BhWB3MoBMEtAPjRERrNWiBQsOntKVwJMpHY/edit?usp=sharing) 
- ## pk설정 : 정의 이하
- ## 3종 풀 기부
+ ### [파티 편성](https://docs.google.com/spreadsheets/d/1ZmqVB0v5BhWB3MoBMEtAPjRERrNWiBQsOntKVwJMpHY/edit?usp=sharing) 
+ ### pk설정 : 정의 이하
+ ### 3종 풀 기부
 
 
 ## [ **참여해주세요** ] **
 
-## [디스코드](https://discord.gg/yufuZH9NKE)
+### [디스코드](https://discord.gg/yufuZH9NKE)
 
-## [카카오톡 - 공지방](https://open.kakao.com/o/gydbRCid)
+### [카카오톡 - 공지방](https://open.kakao.com/o/gydbRCid)
 
-## [카카오톡 - 대화방](https://open.kakao.com/o/gfkMyued)
+### [카카오톡 - 대화방](https://open.kakao.com/o/gfkMyued)
 
-## [카카오톡 - 의견방](https://open.kakao.com/o/g9tzFOid)
+### [카카오톡 - 의견방](https://open.kakao.com/o/g9tzFOid)
 
 ```sh
 공지방, 대화방 참여 코드 : 43210
