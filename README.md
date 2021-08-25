@@ -1,10 +1,10 @@
-## [ **강조 내용** ] **
+## [ **확인해주세요** ] **
 
 - __pk설정 : 정의 이하__
 - __3종 풀 기부__
-
-
 ## [파티 편성](https://docs.google.com/spreadsheets/d/1ZmqVB0v5BhWB3MoBMEtAPjRERrNWiBQsOntKVwJMpHY/edit?usp=sharing) 
+
+
 
 ## [ **참여해주세요** ] **
 
