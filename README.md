@@ -1,8 +1,8 @@
 ## [ **확인해주세요** ] \*\*
 
-### 1. [ 컨텐츠 - 왕위쟁탈전 ] 내용 숙지
+### 1. [파티 편성 숙지](https://docs.google.com/spreadsheets/d/1ZmqVB0v5BhWB3MoBMEtAPjRERrNWiBQsOntKVwJMpHY/edit?usp=sharing)
 
-### 2. [파티 편성 숙지](https://docs.google.com/spreadsheets/d/1ZmqVB0v5BhWB3MoBMEtAPjRERrNWiBQsOntKVwJMpHY/edit?usp=sharing)
+### 2. [킹덤기부 관련 규칙 숙지]
 
 ## [ **참여해주세요** ] \*\*
 
