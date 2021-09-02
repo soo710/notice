@@ -84,10 +84,38 @@
 
 ## [ **컨텐츠 진행시간** ]
 
-|     구분      |   수요일   |   토요일   |   일요일(격주)   |
-| :-----------: | :--------: | :--------: | :--------------: |
-| 21:00 ~ 22:00 | 킹덤침공전 |  유물전장  |    왕위쟁탈전    |
-| 22:00 ~ 23:00 |  킹덤던전  | 킹덤디펜스 |    자체이벤트    |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow">구분</th>
+    <th class="tg-c3ow">수요일</th>
+    <th class="tg-c3ow">토요일</th>
+    <th class="tg-baqh">일요일</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">21:00 ~ 22:00</td>
+    <td class="tg-c3ow">킹덤침공전</td>
+    <td class="tg-c3ow">유물전장</td>
+    <td class="tg-baqh" rowspan="2">왕위쟁탈전 <br>or<br>자체이벤트</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">22:00 ~ 23:00</td>
+    <td class="tg-c3ow">킹덤던전</td>
+    <td class="tg-c3ow">킹덤디펜스</td>
+  </tr>
+</tbody>
+</table>
 
 ### 킹덤 침공전 - 수요일
 
