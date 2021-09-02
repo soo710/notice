@@ -6,13 +6,13 @@
 
 ## [ **참여해주세요** ] \*\*
 
-### [디스코드](https://discord.gg/yufuZH9NKE)
+### [디스코드(링크)](https://discord.gg/yufuZH9NKE)
 
-### [카카오톡 - 공지방](https://open.kakao.com/o/gydbRCid)
+### [카카오톡 - 공지방(링크)](https://open.kakao.com/o/gydbRCid)
 
-### [카카오톡 - 대화방](https://open.kakao.com/o/gfkMyued)
+### [카카오톡 - 대화방(링크)](https://open.kakao.com/o/gfkMyued)
 
-### [카카오톡 - 의견방](https://open.kakao.com/o/g9tzFOid)
+### [카카오톡 - 의견방(링크)](https://open.kakao.com/o/g9tzFOid)
 
 ```sh
 공지방 참여코드 : 43210
