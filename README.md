@@ -98,7 +98,7 @@
     <td class="tg-c3ow">21:00 ~ 22:00</td>
     <td class="tg-c3ow">킹덤침공전</td>
     <td class="tg-c3ow">유물전장</td>
-    <td class="tg-baqh" rowspan="2">왕위쟁탈전 <br>or<br>자체이벤트</td>
+    <td class="tg-baqh" rowspan="2">왕위쟁탈전 <br>자체이벤트<br>교차진행</td>
   </tr>
   <tr>
     <td class="tg-c3ow">22:00 ~ 23:00</td>
