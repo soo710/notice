@@ -1,6 +1,6 @@
 ## [ **확인해주세요** ] \*\*
 
-### 1. [파티 편성 숙지](https://docs.google.com/spreadsheets/d/1ZmqVB0v5BhWB3MoBMEtAPjRERrNWiBQsOntKVwJMpHY/edit?usp=sharing)
+### 1. [파티 편성 숙지(링크)](https://docs.google.com/spreadsheets/d/1ZmqVB0v5BhWB3MoBMEtAPjRERrNWiBQsOntKVwJMpHY/edit?usp=sharing)
 
 ### 2. 킹덤기부 관련 규칙 숙지
 
