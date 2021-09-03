@@ -252,3 +252,5 @@
 ## [퍼즐 계산기](https://myar.tistory.com/entry/ninokuni-tetro-puzzle-calculator)
 
 ## [보물섬공략](https://forum.netmarble.com/enn_ko/view/27/102309)
+
+## [크라켄 타임어택 공략](https://www.youtube.com/watch?v=29XhAF01F0E)
