@@ -247,6 +247,8 @@
 
 ## [킹덤디펜스 (3단계)](https://youtu.be/bJmC4LJIEsE)
 
+## [왕위쟁탈전 (러쉬/제왕/삼땡/청하)](https://www.youtube.com/watch?v=pIcIP6uBp0c)
+
 
 ## 팁
 
