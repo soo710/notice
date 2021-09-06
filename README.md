@@ -249,7 +249,6 @@
 
 ## [킹덤디펜스 (3단계)](https://youtu.be/bJmC4LJIEsE)
 
----
 
 ## 팁
 
