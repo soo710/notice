@@ -243,11 +243,11 @@
 
 ## 컨텐츠 진행 영상
 
-### [침공전 (러쉬vs천루)](https://youtu.be/ZiOlID_-NMU)
+## [침공전 (러쉬vs천루)](https://youtu.be/ZiOlID_-NMU)
 
-### [유물전장 (러쉬vs토토로)](https://youtu.be/jv2XQ19L07o)
+## [유물전장 (러쉬vs토토로)](https://youtu.be/jv2XQ19L07o)
 
-### [킹덤디펜스 (3단계)](https://youtu.be/bJmC4LJIEsE)
+## [킹덤디펜스 (3단계)](https://youtu.be/bJmC4LJIEsE)
 
 ---
 
