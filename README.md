@@ -242,7 +242,8 @@
 
 ## [침공전] 
 - [0901 러쉬 vs 천루](https://youtu.be/ZiOlID_-NMU)
-- [0915 러쉬 vs 폐인](https://www.youtube.com/watch?v=AKNYe2DBDiA)
+- [0915 러쉬 vs 폐인 - 방어](https://www.youtube.com/watch?v=AKNYe2DBDiA)
+- [0915 러쉬 vs 폐인 - 공격](https://www.youtube.com/watch?v=O-UzYq7_HWc)
 
 ## [유물전장]
  - [러쉬 vs 토토로](https://youtu.be/jv2XQ19L07o)
