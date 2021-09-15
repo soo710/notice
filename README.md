@@ -240,9 +240,12 @@
 
 ## 컨텐츠 진행 영상
 
-## [침공전 (러쉬vs천루)](https://youtu.be/ZiOlID_-NMU)
+## [침공전] 
+- [0901 러쉬 vs 천루](https://youtu.be/ZiOlID_-NMU)]
+- [0915 러쉬 vs 폐인](https://www.youtube.com/watch?v=AKNYe2DBDiA)
 
-## [유물전장 (러쉬vs토토로)](https://youtu.be/jv2XQ19L07o)
+## [유물전장]
+ - [러쉬 vs 토토로](https://youtu.be/jv2XQ19L07o)]
 
 ## [킹덤디펜스 (3단계)](https://youtu.be/bJmC4LJIEsE)
 
